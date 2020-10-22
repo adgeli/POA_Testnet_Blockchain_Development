@@ -12,4 +12,22 @@ The following documentation seeks to assist users in accessing the custom Venus 
 
 ---
 
+## Table of Contents
+- [Installation Requirements](#Installation-Requirements)
+- [Starting the Network Instructions](#Starting-the-Network-Instructions)
+- [Node Transaction](#Venus-Testnet-Network-Transaction)
+- [File Contents](#File-Contents)
+
+---
+
+## Installation Requirements 
+
+- Go-Ethereum tools is required to take part in this exercise. The installation link can be found here: [Go Ethereum](https://geth.ethereum.org/)
+
+- For the development of the custom testnet blockchain networ, installing the MyCryptoApp desktop is required. Please follow the link proivded to do so: [MyCrypto](https://www.mycrypto.com/)
+
+- To launch both requirements, please reference the following guide for direct setup instructions: [Blockchain Installation Guide](resources/blockchain-install-guide.md)
+
+---
+
 
