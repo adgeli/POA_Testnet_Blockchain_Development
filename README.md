@@ -158,3 +158,18 @@ Transaction processing time may take up to 3 hours. As noticed from the image be
 ![step_11](screenshots/Creating_a_Transaction/Wallet_Step_11.png)
 
 ---
+
+## File Contents
+
+[Project Instructions](project_instructions.md)
+
+[Blockchain Case Study](blockchain_case_study.md)
+
+[POA Custom Network](POA_custom_network) 
+* Within this directory there is a custom [network.json](POA_custom_network/venus.json) file and a [credentials.md](POA_custom_network/credentials.md) file that provides users with private access keys that may be required. 
+
+[Screenshots](screenshots)
+
+* This folder contains multiple directories outlining the node creation and initialization process, puppeth, and creatining a transaction in the MyCryptoApp. If the user would like to create their own nodes through the clique POA algoirthm, these screenshots can be referenced. 
+
+---
