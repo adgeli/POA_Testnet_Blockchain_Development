@@ -101,3 +101,60 @@ If all commands are inputted correctly, the users screen should immitate the fol
 
 ---
 
+## Venus Testnet Network Transaction
+
+Once the user has confirmed both nodes are mining successsfully, using the `MyCryptoApp`, a transaction can be processed following the steps outlined below. 
+
+**Step 1** 
+
+Navigating into the `MyCryptoApp` in the left side pane, locate the `Change Network` option. 
+
+![step_1](screenshots/Creating_a_Transaction/Wallet_Step_1.png)
+
+Select the option, then choose to `add a custom network` to deploy the node transaction. 
+
+![step_2](screenshots/Creating_a_Transaction/Wallet_Step_2.png)
+
+**Step 2** 
+
+Follow the headers in this section to input the values shown below. The `Chain ID` is unique to the Venus custom testnet blockchain network. 
+
+![step_3](screenshots/Creating_a_Transaction/Wallet_Step_3.png)
+
+Confirm the addition of a new network has been successful. The left side bar should appear as the following: 
+
+![step_4](screenshots/Creating_a_Transaction/Wallet_Step_4.png)
+
+**Step 3** 
+
+Now that this has been confrimed, navigate to the `Keystore` file option. Using the `Select Wallet File` option locate the `Keystore` file present in the `node1` directory. 
+
+![step_5](screenshots/Creating_a_Transaction/Wallet_Step_5.png)
+
+![step_6](screenshots/Creating_a_Transaction/Wallet_Step_6.png)
+
+If the correct file was located, once the **password: qbshwk** is inputted, the `MyCryptoApp` will be re-dreicted to the following screen: 
+
+![step_7](screenshots/Creating_a_Transaction/Wallet_Step_7.png)
+
+**Step 4** 
+
+In the `Address` field, input the **Public Address Key: 0x0858dc8202e9cB78aF6706daaeF95bed3f20EE65** for node_2 and the desired amount.  
+
+![step_8](screenshots/Creating_a_Transaction/Wallet_Step_8.png)
+
+Confirm the transaction and press `send` 
+
+![step_9](screenshots/Creating_a_Transaction/Wallet_Step_9.png)
+
+**Step 5** 
+
+Click the  `TX Status` in the popup to verify the status of the transaction.
+
+![step_10](screenshots/Creating_a_Transaction/Wallet_Step_10.png)
+
+Transaction processing time may take up to 3 hours. As noticed from the image below that was taken immediently after the transaction was sent, the status is currently pending. 
+
+![step_11](screenshots/Creating_a_Transaction/Wallet_Step_11.png)
+
+---
